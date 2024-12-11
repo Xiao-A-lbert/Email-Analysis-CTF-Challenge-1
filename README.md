@@ -1,7 +1,7 @@
 # Email-Analysis-CTF-Challenge-1
 
 <h2>Description</h2>
-In this dynamic attachment malware analysis, I used tools like Hybrid-Analysis and CVE research to analyze a malicious email attachment. 
+In this email analysis challenge 1, I am a SOC Analyst at Might Solutions and I've been tasked to investigate a user's suspicious email claiming her online access has been disabled.  
 <br />
 
 
@@ -23,7 +23,7 @@ Challenge 1 prompt.
 
 <br />
 <br />
-I used ioc python script from malwarecube to enumerate email sample headers.
+I used an ioc python script from malwarecube to enumerate email sample headers.
 
 ![2) eioc py enumerate headers](https://github.com/user-attachments/assets/bd1eb970-9079-4c20-af65-70ccb45f6cae)
 
