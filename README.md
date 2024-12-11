@@ -7,7 +7,7 @@ In this dynamic attachment malware analysis, I used tools like Hybrid-Analysis a
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Hybrid-Analysis</b>
+- <b>https://github.com/MalwareCube/Email-IOC-Extractor</b>
 - <b>Virustotal</b>
 
 
